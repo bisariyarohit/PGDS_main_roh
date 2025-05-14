@@ -51,24 +51,3 @@ python test.py --config_file <path to config file>
 ```
 After the testing the test result will be logged in the same folder as the config.
 
-## Result
-
-The result in test dataset can be found in our paper.
-
-<div align="center">
-    <a href="./">
-        <img src="Figure/vis_att.png" width="79%"/>
-    </a>
-</div>
-
-## Citation
-```
-@inproceedings{trinh2024pgds,
-  title={PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification},
-  author={Trinh, Quoc-Huy and Bui, Nhat-Tan and Hoang, Dinh-Hieu and Thi, Phuoc-Thao Vo and Nguyen, Hai-Dang and Jha, Debesh and Bagci, Ulas and Le, Ngan and Tran, Minh-Triet},
-  booktitle={2024 IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
-  pages={1--8},
-  year={2024},
-  organization={IEEE}
-}
-```
